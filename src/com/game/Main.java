@@ -10,6 +10,6 @@ public class Main
         G.ARP = "./lib/Abereth/res/";
         Game g = new Game( 500, 500 );
         g.addView( new GameView( g ) );
-        g.start();
+        g.start ();
     }
 }
