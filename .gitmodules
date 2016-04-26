@@ -1,0 +1,3 @@
+[submodule "lib/Abereth"]
+	path = lib/Abereth
+	url = https://github.com/robmadeyou/Abereth
