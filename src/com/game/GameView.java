@@ -2,7 +2,7 @@ package com.game;
 
 import com.abereth.draw.shapes.Square;
 import com.abereth.game.Game;
-import com.abereth.game.View;
+import com.abereth.view.View;
 import com.abereth.gui.text.Text;
 import com.abereth.input.Mouse;
 
